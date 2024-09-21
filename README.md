@@ -16,7 +16,7 @@ Pain Killers 💊, Time Savers ⌛️, and Power Tools 🚀 for SAP® Basis, BW,
 
 apm is a Package Manager 📦, a Website 🌐, and a Registry 📑 for ABAP
 
-[Plugins for TypingMind](https://marcfbe.gumroad.com)
+[Plugins for TypingMind](https://marcfbe.gumroad.com) (coming soon)
 
 <img src="https://github.com/marcfbe/marcfbe/blob/main/made_for_typingmind.png?raw=true" width="250">
 
