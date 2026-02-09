@@ -16,13 +16,13 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 <!-- apm - A Package Manager 📦, a Website 🌐, and a Registry 📑 for ABAP, 👉 https://abappm.com -->
 
-[![apm_banner_long](https://github.com/user-attachments/assets/504e3040-5d20-42c0-876f-7027e3fb57ae)](https://abappm.com)
+[![apm banner](./assets/apm_banner_long.png)](https://abappm.com)
 
 <hr>
 
 <!-- Marc Bernard Tools - Pain Killers 💊, Time Savers ⌛️, and Power Tools 🚀 for SAP® Basis, BW, and BW/4HANA, 👉 https://marcbernardtools.com -->
 
-[![MBT_Banner_long](https://github.com/user-attachments/assets/326ab366-ecf3-4406-ac7d-d4fd7a761945)](https://marcbernardtools.com)
+[![MBT Banner](./assets/mbt_banner_long.png)](https://marcbernardtools.com)
 
 <hr>
 
@@ -65,6 +65,10 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 ![Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
+
+<hr>
+
+[![sponsor-me](./assets/sponsor_me.png)](https://github.com/sponsors/mbtools)
 
 <hr>
 
