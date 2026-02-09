@@ -66,17 +66,6 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 ![Top Languages](./profile/top-langs.svg)
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbtools&theme=great-gatsby" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbtools&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
-</a>
--->
-
 <hr>
 
 PS: Visit my 👉 [corner store](https://marcfbe.gumroad.com/) 👈 
