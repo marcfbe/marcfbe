@@ -28,7 +28,7 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 ### ABAP and Related Open-Source Contributions
 
-- [abapGit](https://abapgit.org/) - Over 1300 commits, oh my!
+- [abapGit](https://abapgit.org/) - One of the abapGit lead maintainers with over 1300 commits, oh my!
 
 - [abaplint](https://abaplint.org/) - Some little additions and improvements
 
